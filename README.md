@@ -73,7 +73,6 @@ Before you begin, ensure you have the following installed and configured:
 ### CI/CD Pipeline
 ![Jenkins Dashboard](screenshots/jenkins_pipeline.png)
 *Jenkins Pipeline Dashboard*
-
 ![Jenkins Pipeline](screenshots/jenkins_sonarqube_quality_gate.png)
 *Complete CI/CD Pipeline*
 

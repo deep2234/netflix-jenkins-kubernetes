@@ -16,14 +16,15 @@ This project demonstrates a production-ready DevSecOps pipeline for a Netflix cl
 - **Infrastructure as Code** practices
 - **Scalable Cloud Architecture** on AWS
 
-## Netflix Clone
-![Netflix_Clone](screenshots/netflix.png)
-
 
 ## 🏗️ Architecture Diagram
 
 <!-- Architecture diagram will be placed here -->
 ![Architecture Diagram](screenshots/NEW_NETFLIX.drawio.png)
+
+## Netflix Clone
+![Netflix_Clone](screenshots/netflix.png)
+
 
 ## 🛠️ Tech Stack
 

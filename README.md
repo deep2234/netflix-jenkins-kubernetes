@@ -16,6 +16,10 @@ This project demonstrates a production-ready DevSecOps pipeline for a Netflix cl
 - **Infrastructure as Code** practices
 - **Scalable Cloud Architecture** on AWS
 
+## Netflix Clone
+![Netflix_Clone](screenshots/netflix.png)
+
+
 ## 🏗️ Architecture Diagram
 
 <!-- Architecture diagram will be placed here -->
@@ -40,7 +44,7 @@ This project demonstrates a production-ready DevSecOps pipeline for a Netflix cl
 - **Container Registry**: DockerHub
 
 ### Application
-- **Frontend**: React.js (TypeScript)
+- **Frontend**: TypeScript
 - **API Integration**: TMDB API
 - **Web Server**: Nginx
 
@@ -66,32 +70,30 @@ Before you begin, ensure you have the following installed and configured:
 *EKS Cluster Overview*
 
 ### CI/CD Pipeline
-![Jenkins Dashboard](screenshots/jenkins-dashboard.png)
+![Jenkins Dashboard](screenshots/jenkins_pipeline.png)
 *Jenkins Pipeline Dashboard*
 
-![Jenkins Pipeline](screenshots/jenkins-pipeline.png)
+![Jenkins Pipeline](screenshots/jenkins_sonarqube_quality_gate.png)
 *Complete CI/CD Pipeline*
 
 ### Code Quality & Security
-![SonarQube Analysis](screenshots/sonarqube-analysis.png)
+![SonarQube Analysis](screenshots/sonarqube.png)
 *SonarQube Code Quality Analysis*
 
-![SonarQube Quality Gate](screenshots/jenkins-sonarqube-quality-gate.png)
-*Jenkins SonarQube Quality Gate*
-
-![Trivy Security Scan](screenshots/trivy-scan.png)
-*Trivy Container Security Scan*
-
 ### Container Registry
-![DockerHub Repository](screenshots/dockerhub.png)
+![DockerHub Repository](screenshots/docker_hub.png)
 *DockerHub Repository*
 
 ### Monitoring & Observability
-![Prometheus Targets](screenshots/prometheus.png)
+![Prometheus Targets](screenshots/Prometheus.png)
 *Prometheus Monitoring Targets*
 
-![Grafana Dashboard](screenshots/grafana.png)
+![Grafana Dashboard](screenshots/grafanadashboarddd.png)
 *Grafana Monitoring Dashboard*
+![Grafana Dashboard](screenshots/grafana_jenkins_performance_health.png)
+*Jenkins performance and health overview*
+![Grafana Dashboard](screenshots/grafana_node_exporter.png)
+*Node exporter*
 
 ### GitOps Deployment
 ![ArgoCD Dashboard](screenshots/argocd.png)
@@ -156,11 +158,3 @@ Feel free to connect with me for discussions about DevOps, cloud computing, or a
 - **GitHub**: [deep2234](https://github.com/deep2234)
 - **LinkedIn**: [www.linkedin.com/in/dipshill/]
 
----
-
-## 🏷️ Tags
-
-`DevSecOps` `AWS` `Jenkins` `Docker` `Kubernetes` `ArgoCD` `Prometheus` `Grafana` `CI/CD` `GitOps` `Security` `Monitoring` `Cloud-Native`
-
----
-# netflix-jenkins-kubernetes

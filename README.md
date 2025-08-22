@@ -19,7 +19,7 @@ This project demonstrates a production-ready DevSecOps pipeline for a Netflix cl
 ## 🏗️ Architecture Diagram
 
 <!-- Architecture diagram will be placed here -->
-![Architecture Diagram](path/to/architecture-diagram.png)
+![Architecture Diagram](screenshots/NEW_NETFLIX.drawio.png)
 
 ## 🛠️ Tech Stack
 
@@ -59,10 +59,10 @@ Before you begin, ensure you have the following installed and configured:
 ## 📊 Screenshots & Dashboards
 
 ### AWS Services
-![EC2 Dashboard](screenshots/aws-ec2.png)
+![EC2 Dashboard](screenshots/ec2_intence.png)
 *EC2 Instance Configuration*
 
-![EKS Cluster](screenshots/aws-eks.png)
+![EKS Cluster](screenshots/eks_cluster.png)
 *EKS Cluster Overview*
 
 ### CI/CD Pipeline

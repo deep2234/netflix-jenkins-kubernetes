@@ -146,11 +146,6 @@ The Jenkins pipeline includes the following stages:
 - ✅ Container orchestration with Kubernetes
 - ✅ Infrastructure automation and scaling
 
-
-## 📝 Acknowledgments
-
-Special thanks to [Nasiullha Chaudhari](https://github.com/N4si) for the original [DevSecOps Project](https://github.com/N4si/DevSecOps-Project) that served as a reference for this implementation. This project allowed me to gain practical hands-on experience with real-world DevSecOps practices.
-
 ## 📞 Contact
 
 Feel free to connect with me for discussions about DevOps, cloud computing, or any questions about this project:

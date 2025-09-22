@@ -150,6 +150,5 @@ The Jenkins pipeline includes the following stages:
 
 Feel free to connect with me for discussions about DevOps, cloud computing, or any questions about this project:
 
-- **GitHub**: [deep2234](https://github.com/deep2234)
 - **LinkedIn**: [www.linkedin.com/in/dipshill/]
 
